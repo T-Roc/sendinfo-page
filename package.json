@@ -1,0 +1,7 @@
+{
+  "name": "sendinfo-page",
+  "version": "1.0.0",
+  "description": "static web workflow",
+  "main": "index.js",
+  "license": "MIT"
+}
